@@ -7,3 +7,7 @@ body {
   color: white;
   background-color: #212529;
 }
+
+.texto-size-footer {
+  font-size: 2rem;
+}
